@@ -40,7 +40,7 @@ Commit #15 - Started rebase dev 2 commit 2
 
 Commit #16 - This is from dev 2 making a bug fix change GW
 
-Commit #17 - Developer 1 working on the bug fix
+Commit #17 - Developer 1 working on the bug fix GW2
 
 Commit #18 - Squash local commit 1
 
