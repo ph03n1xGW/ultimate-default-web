@@ -42,13 +42,13 @@ Commit #16 - This is from dev 2 making a bug fix change GW
 
 Commit #17 - Developer 1 working on the bug fix GW2
 
-Commit #18 - Squash local commit 1
+Commit #18 - Squash local commit 1 GW
 
-Commit #19 - Squash local commit 2
+Commit #19 - Squash local commit 2 GW
 
-Commit #20 - Squash local commit 3
+Commit #20 - Squash local commit 3 GW
 
-Commit #21 - Squash local commit 4
+Commit #21 - Squash local commit 4 GW
 
 Commit #22 - Cherry Pick demo commit 1
 
